@@ -1,0 +1,9 @@
+sentence:= "I read a book."
+
+print the number of characters;
+print the numbers of words in the sentence;
+print the number of vowels;
+end;
+
+/*this is my take on an algorithm to read a line of code, i made it simple to pe applicable to all types of coding languages as well as reduce the chance of confuson when read
+*/
